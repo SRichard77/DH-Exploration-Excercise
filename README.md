@@ -1,1 +1,1 @@
-# DH-Exploration-Excercise
+# DH-Exploration-Exercise
