@@ -19,3 +19,12 @@ Following this, I attempted this command at the terminal: Wget https://www.kansa
 After encountering these errors, I went back to the [Wget Tutorial](https://craftingdh.netlify.app/tutorials/wget/#basic-usage) on the class website and used what I learned from Part Two, and I inspected the images of the diary and found the numbers and format of their urls. From this, I created a list of urls in Sublime Text with all 86 pages as I was having a hard time using Python to generate a list of urls, so this was easier for me to tackle, even though it was more time consuming. I saved the file as urls.txt and put it into my folder for Abbie Bright's diaries. I then went back to the terminal from the folder, and used this command: 'wget -i urls.txt -r --no-parent -nd -w 2 --limit-rate=100k' to pull the 86 page diary from [Kansas Memory](https://www.kansasmemory.org/). Finally, it worked! 
 
 ![](https://github.com/SRichard77/DH-Exploration-Exercise/blob/a57cfaf0a40130fae69881dc1a0fd0507b6d7198/DH%20exploratoin%20Wget%20success.png)
+
+#### Voyant
+
+I used Voyant to explore the data from Abbie Bright's diary. 
+
+**Challenges that I faced and what I did to help:** 
+
+At first, I attempted to upload the jpg files of the diary that I pulled to my Mac using Wget. When I did this, I got the following error message: 
+
