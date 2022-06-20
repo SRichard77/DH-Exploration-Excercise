@@ -32,9 +32,13 @@ At first, I attempted to upload the jpg files of the diary that I pulled to my M
 
 After taking some time to think of how I should go about this, and how to get the diary into Voyant, I found that on the [Kansas Memory website](https://www.kansasmemory.org/item/223662/text) there was an option to choose the Text version of the diary. I then copied this url: https://www.kansasmemory.org/item/223662/text for the text version of the diary into Voyant, and it worked! 
 
-#### Point Maps with Google 
+#### Point Maps with Google My Maps
 
 Seeing as in Abbie Bright's diary, she mentions several different locations that she travelled to, I decided to make a map on Google with what I learned from Part Three. 
+
+**Challenges that I faced and what I did to help:**
+
+For this, I referred back to Part Three of the course and went over the instructions once again for creating a Google My Maps with a previously made spreadsheet. I made a spreadsheet that can be found [here](https://docs.google.com/spreadsheets/d/1SwLFTOy9Qp_nhZfualw_PrV9qGJPnWS9ujPic7UOQAI/edit?usp=sharing) with the different locations Abbie mentions in her diary, and the corresponding dates. I then imported this spreadsheet into a new Google My Maps, and the map was made. I attempted to make a line to show the chronological order she travelled in, however it was not saving properly. I also added small descriptions at each map point that include why Abbie was there, based on what she said in her journal. 
 
 
 
