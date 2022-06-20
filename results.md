@@ -20,7 +20,7 @@ Another interesting thing I found from the Cirrus I linked above with the most u
 
 #### Point Map with Google My Maps
 
-While reading through Abbie Bright's diary, I noticed many locations that she mentions she visited and or travelled to. Immediately, I thought to myself that I can make a map with these locations. I used what I learned in this course, by making a spreadsheet and importing it into the map to make this map, which I discuss in my log.md file. I did not use every single location mentioned in Abbie's diary, as a few of them no longer exist today, or they just have different names, and I was unable to find the exact location of where it would be. Therefore, I only chose the locations of cities that she mentions to ensure accuracy in my map. The map that I made can be found [here](https://www.google.com/maps/d/edit?mid=1_SYKyFZMcbMMYRjOVaOdspJu8hOp7x4&usp=sharing)
+While reading through Abbie Bright's diary, I noticed many locations that she mentions she visited and or travelled to. Immediately, I thought to myself that I can make a map with these locations. I used what I learned in this course, by making a spreadsheet and importing it into the map to make this map, which I discuss in my log.md file. I did not use every single location mentioned in Abbie's diary, as a few of them no longer exist today, or they just have different names, and I was unable to find the exact location of where it would be. Therefore, I only chose the locations of cities that she mentions to ensure accuracy in my map. The map that I made can be found [here](https://www.google.com/maps/d/edit?mid=1_SYKyFZMcbMMYRjOVaOdspJu8hOp7x4&usp=sharing).
 
 #### Further research that could be done with this data
 
