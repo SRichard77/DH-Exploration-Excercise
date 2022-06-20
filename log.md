@@ -4,11 +4,11 @@
 
 #### Wget 
 
-For the DH exploration exercise, I used Wget to pull Abbie Bright's 86 page diary from [Kansas Memory](https://www.kansasmemory.org/). 
+For the DH exploration exercise, I used Wget to pull Abbie Bright's 86 page diary from [Kansas Memory](https://www.kansasmemory.org/).
 
 **Challenges that I faced and what I did to help:** 
 
-It was difficult to navigate Wget and I ran into a few problems. The first issue I ran into was when I used this command in the terminal: wget https://www.kansasmemory.org/item/223662. This url was the one from the main page of the diary on the website. When I entered this, in the directory was a document that led to this:
+It was difficult to navigate Wget and I ran into a few problems. My fellow classmate, Kaliyah, and myself worked through Wget again together like we did for Part Two, to help each other out in navigating it as it can be a tad overwhelming and confusing. The first issue I ran into was when I used this command in the terminal: wget https://www.kansasmemory.org/item/223662. This url was the one from the main page of the diary on the website. When I entered this, in the directory was a document that led to this:
 
 ![](https://github.com/SRichard77/DH-Exploration-Exercise/blob/b1fca45bb582f3a85b39981d5b21b4a3b7ac1a69/DH%20exploration%20Wget%20error%201.png)
 
