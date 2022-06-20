@@ -18,9 +18,9 @@ Due to this, I believe the word 'page' came up as one most frequently used, howe
 
 Another interesting thing I found from the Cirrus I linked above with the most used words, was the words "brother" and "mr." Immediately I connected this to how women in the past were seen as inferior to men in society, and it was not overly surprising to see words reflecting masculinity to be of the most used words in the diary. I found this [webpage](https://www.kshs.org/p/the-diary-of-abbie-bright-1870-1871-1/13214) on the Kansas Historical Society site and it explained how since it was not part of the "norm" for a young woman to be travelling alone in society in that time period, she often visited her brother and other family members in order to keep her from being seen as perhaps unmoral in society, as well as for her to be able to continue on her adventures of travelling [^3]. 
 
-#### Google Maps
+#### Point Map with Google My Maps
 
-I noticed there was many locations written that Abbie passed by or visited, so I decided to make a Google Maps, like I learned more about in Part Three of this course, to map down some the locations Abbie visited. 
+While reading through Abbie Bright's diary, I noticed many locations that she mentions she visited and or travelled to. Immediately, I thought to myself that I can make a map with these locations. I used what I learned in this course, by making a spreadsheet and importing it into the map to make this map, which I discuss in my log.md file. I did not use every single location mentioned in Abbie's diary, as a few of them no longer exist today, or they just have different names, and I was unable to find the exact location of where it would be. Therefore, I only chose the locations of cities that she mentions to ensure accuracy in my map. The map that I made can be found [here](https://www.google.com/maps/d/edit?mid=1_SYKyFZMcbMMYRjOVaOdspJu8hOp7x4&usp=sharing)
 
 #### Further research that could be done with this data
 
