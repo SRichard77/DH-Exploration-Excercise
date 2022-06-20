@@ -24,10 +24,7 @@ I noticed there was many locations written that Abbie passed by or visited, so I
 
 #### Further research that could be done with this data
 
-I believe that there is a lot of things that can be done with this data, and many arguments that can be made. Throughout this course I have learned many different ways digital history can argue. With the data from Abbie Bright's diary, I believe an analysis can be done on her gender, race and class. While she was obviously from a privileged background, I wonder what else can be explored to further expand on this. Perhaps, maybe in comparison to a diary of someone from a marginalized group, as I am sure their diary entries would be quite different. While Abbie was able to travel and hide the fact she was a lone young woman by visiting family along her journey, I question would this be possible for a woman from a marginalized group? 
-
-
-
+I believe that there is a lot of things that can be done with this data, and many arguments that can be made. Throughout this course I have learned many different ways digital history can argue. With the data from Abbie Bright's diary, I believe an analysis can be done on her gender, race and class. While she was obviously from a privileged background, I wonder what else can be explored to further expand on this. Perhaps, maybe in comparison to a diary of someone from a marginalized group, as I am sure their diary entries would be quite different. While Abbie was able to travel and hide the fact she was a lone young woman by visiting family along her journey, I question would this be possible for a woman from a marginalized group in society? With Abbie Bright's diary, there are plenty of questions and analysis' that can emerge from it. 
 
 [^1]: Leon, Sharon. “Returning Women to the History of Digital History.” bracket, April 11, 2019 (http://www.6floors.org/bracket/2016/03/07/returning-women-to-the-history-of-digital-history/). 
 
