@@ -28,3 +28,13 @@ I used Voyant to explore the data from Abbie Bright's diary.
 
 At first, I attempted to upload the jpg files of the diary that I pulled to my Mac using Wget. When I did this, I got the following error message: 
 
+![](https://github.com/SRichard77/DH-Exploration-Exercise/blob/fbb081f53575aa3a06441c2c3d230f39e15345b1/jpg%20error%20Voyant.png)
+
+After taking some time to think of how I should go about this, and how to get the diary into Voyant, I found that on the [Kansas Memory website](https://www.kansasmemory.org/item/223662/text) there was an option to choose the Text version of the diary. I then copied this url: https://www.kansasmemory.org/item/223662/text for the text version of the diary into Voyant, and it worked! 
+
+#### Point Maps with Google 
+
+Seeing as in Abbie Bright's diary, she mentions several different locations that she travelled to, I decided to make a map on Google with what I learned from Part Three. 
+
+
+
