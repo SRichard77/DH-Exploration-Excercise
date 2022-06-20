@@ -10,15 +10,27 @@ For the DH Exploration Exercise, I chose to explore the 86 page diary of Abbie B
 
 I decided to use Voyant to get a distant read of Abbie Bright's diary, with macroscopic perspectives. The first interesting thing I noticed when using Voyant was the links between certain words. It can be found [here](https://voyant-tools.org/tool/CollocatesGraph/?query=went&query=home&query=came&mode=corpus&corpus=8a6baf4ebe3eb98694b547f3ed4eee68). The words home, went, and came were all linked. This was intersting as Abbie travelled while writing in her diary, so the links between these words make sense. Another interesting link between the words is Phillip and home. Phillip is said to be Abbie's brother, and so the link between Phillip and home also made sense as she connects her brother to her home. 
 
-I examined the Cirrus made from Voyant, which can be found [here](https://voyant-tools.org/tool/Cirrus/?visible=25&corpus=8a6baf4ebe3eb98694b547f3ed4eee68). It was interesting to see that among the most used words was the word "page." In the text version, the pages were listed before the diary entry for each page. I will attach a screenshot here for example:
+I examined the Cirrus made from Voyant, which can be found [here](https://voyant-tools.org/tool/Cirrus/?visible=25&corpus=8a6baf4ebe3eb98694b547f3ed4eee68). It was interesting to see that among the most used words was the word "page." In the text version, the pages were listed before the diary entry for each page. I will attach a screenshot here for example: 
 
-Due to this, I believe the word 'page' came up as one most frequently used, however it was not one of the words used by Abbie herself, rather the person who transcribed the document to allow it to have a text version. 
+![](https://github.com/SRichard77/DH-Exploration-Exercise/blob/639d1348cf345221064bf686c2bebc12129e65b6/Text%20version%20page.png)
 
+Due to this, I believe the word 'page' came up as one most frequently used, however it was not one of the words used by Abbie herself, rather the person who transcribed the document to allow it to have a text version. In the two readings from Part Two on the Bentham Project, it was explained how they use volunteers to transcribe the Bentham documents and make them readily available as sources online [^2]. I wanted to know if the Kansas Memory by the Kansas Historical Society also relied on volunteers for the transcription of their archival materials. I did some searching around on the Website, and found [this](https://www.kansasmemory.org/faq#) page, of which answered my question. They also rely on volunteers to transcribe their materials. Within that link, there is also instructions on how to become a volunteer to transcribe the materials. 
+
+Another interesting thing I found from the Cirrus I linked above with the most used words, was the words "brother" and "mr." Immediately I connected this to how women in the past were seen as inferior to men in society, and it was not overly surprising to see words reflecting masculinity to be of the most used words in the diary. I found this [webpage](https://www.kshs.org/p/the-diary-of-abbie-bright-1870-1871-1/13214) on the Kansas Historical Society site and it explained how since it was not part of the "norm" for a young woman to be travelling alone in society in that time period, she often visited her brother and other family members in order to keep her from being seen as perhaps unmoral in society, as well as for her to be able to continue on her adventures of travelling [^3]. 
 
 #### Google Maps
 
 I noticed there was many locations written that Abbie passed by or visited, so I decided to make a Google Maps, like I learned more about in Part Three of this course, to map down some the locations Abbie visited. 
 
+#### Further research that could be done with this data
+
+I believe that there is a lot of things that can be done with this data, and many arguments that can be made. Throughout this course I have learned many different ways digital history can argue. With the data from Abbie Bright's diary, I believe an analysis can be done on her gender, race and class. While she was obviously from a privileged background, I wonder what else can be explored to further expand on this. Perhaps, maybe in comparison to a diary of someone from a marginalized group, as I am sure their diary entries would be quite different. While Abbie was able to travel and hide the fact she was a lone young woman by visiting family along her journey, I question would this be possible for a woman from a marginalized group? 
+
+
 
 
 [^1]: Leon, Sharon. “Returning Women to the History of Digital History.” bracket, April 11, 2019 (http://www.6floors.org/bracket/2016/03/07/returning-women-to-the-history-of-digital-history/). 
+
+[^2]: Causer, Tim, Grint, Kris, Sichani, Anna-Maria and Terras, Melissa, ”Making such bargain: Transcribe Bentham and the quality and cost-effectiveness of crowdsourced transcription’, Digital Scholarship in the Humanities, 33:3 2018, pp. 467-87. And Causer, Tonra, & Wallace, 2012. Transcription maximized; expense minimized? Crowdsourcing and editing The Collected Works of Jeremy Bentham LLC 27.2
+
+[^3]: Joseph W Snell, ed., “The Diary of Abbie Bright, 1870-1871, 1,” Kansas Historical Society, accessed June 19, 2022, https://www.kshs.org/p/the-diary-of-abbie-bright-1870-1871-1/13214.
